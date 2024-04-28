@@ -8,7 +8,7 @@
 - :office: &nbsp; Principal Software Engineer - EmbraceIT
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=usman-mohyuddin&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-mohyuddin)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-mohyuddin&count-private=true)
 
 
 ###### 😄 Pronouns: He/His/Him
