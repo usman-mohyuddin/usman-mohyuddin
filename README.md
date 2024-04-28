@@ -7,7 +7,7 @@
 - 💭 &nbsp; Technical Article Writing, Developer focused content, How to guides.
 - :office: &nbsp; Principal Software Engineer - EmbraceIT
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=usman-mohyuddin&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=usman-mohyuddin&show_icons=true&count-private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-mohyuddin&count-private=true)
 
 
